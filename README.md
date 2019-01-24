@@ -8,3 +8,5 @@ This is the line of master
 This is the line of feature/1
 
 No fast forward
+
+Second person commit
